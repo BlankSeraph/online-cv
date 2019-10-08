@@ -7,32 +7,30 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: blank seraph
+    tagline: Data scientist&Public administration researcher
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: seraphblank@gmail.com
+    phone: 18846439213
+    website: 85thinktank.com #do not add http://
+    linkedin: blankseraph
+    github: blankseraph
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@blank_seraph'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Chinese
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
 
     interests:
       - item: Climbing
@@ -47,154 +45,122 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+        我认为，本科的学习本质就是全面发展和探索，历经两年工科生涯和大学期间各种各样的探索，让我的人生志向不再是一个技术实现，而是研究整体社会现象以及全体的政策制度上的创新.
+        根据科学知识做出的技术有很多，如何将这些技术根据实际的情形作出整合，用的更快更好更合适造福所有人，才是当前更需要的总体趋势，而且对于我自己来讲，一个人现阶段做科学研究能对关于自然科学的努力是非常有限的，而一套好的能够自我完善的体系（比如科学化的项目科研体系制度）却能够发挥整体的百分之几百的效益。随着信息技术的进一步创新和发展，数据时代的来临，根据数据做出更合理的决策来改善当前的不合理制度体系，推动社会变革和进一步发展无疑更加的契合了少时对于成为一名高级智库人的梦想.
+        伴随着对于代表着未来社会的新技术：数据科学，区块链，机器学习等的向往以及探寻这些技术如何更好的造福于人，推动社会进步的科学，我毅然决然的选择了对于数据科学和公共管理问题研究的方向。
+        犹然记得十余年前还很幼稚的想法：改进各级机关企业单位的采购制度性审查约束，招标工作的严密性；城乡二元制度的消解，及后遗症研究；资金流转的审查研究，市场经济下的利益调节微观分配，巨富时代下利益终端膨胀与消解；人才考评制度的丰富，多元与完善。全面的教改细则；人口红利消失后再创业，非劳动型岗位的研究与开发，资本再创造；互联时代的新猜想：各尽其能，各尽其职，各取所需；在如今看来也许在宏观上正在迈向那个美好的图景，但是其中的各种矛盾的调节也是不可避免的.
+        我们发展的进程是那么的不均衡不充分，那么，谁来做那个引导者？
 
-      Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: undergraduate stu
+      university: Harbin institue of technology
+      time: 2018 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+    
+          - 大数据管理与应用双学位
+          - 信息管理与信息系统专业
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: undergraduate stu
+      university: Harbin institue of technology
+      time: 2016 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+
+          - 航天学院工科实验班
+          - 经济管理试验班
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Vice President OF AIESEC IN HIT
+      time: 2017.1 - 2018.9
+      company: Beijing，AIESEC.org
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        AIESEC IN HIT协会副主席，海外志愿者项目（OGV)负责人,
+        负责OGV部门培训，管理协调哈尔滨地区高校出国做志愿的志愿者，
+        带领队伍参加北京RIC青年领导力分会，杭州NTPC管理峰会.
 
-          - Bullet point
-          - Bullet point
+          - OGV培训
+          - 承接MOC分配的任务
+          - teamablition,gmail等全英环境办公协作
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: 哈工大空间机器人协会小组组长
+      time: 2016.10 - 2017.11
+      company: HIT,Harbin
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        参与C，matlab的基础培训，初步了解open cv,open slam相关机器人和机器视觉的基础算法.
+        大一年度项目小组组长，完成无人车避障算法设计研究并成功结题
 
-          - Bullet point
-          - Bullet point
+          - open cv编程
+          - 年度项目结题
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: 航天学院学生会学习部,积极分子负责人
+      time: 2017 - 2018
+      company: HIT,Harbin
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        完成学生会交办的事项，        
+        16级党建，年级文稿撰写，
+        分管学院笔记公众号管理与运营，
+        航天知识竞赛等活动.
 
-          - Bullet point
-          - Bullet point
+          - 党建
+          - 学生会事务
 
 projects:
-    title: Projects
+    title: Projects&Researches
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      以下是学术项目经历，主要是有关物联网，数据科学和公共管理类
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: python爬虫项目
+        tagline: "抓取医院信息，放入mysql数据库，以navicat作为数据库管理工具，进行数据分析并可视化，同时前往校医院的实地病历采集和调研。"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: 公共管理研究
+        tagline: "运用统计和计量的知识（主成分和因子分析等）方法探究政府环境信息披露指数与地区绿色债券发行的关系，并撰写发表论文"
+        tagline: "学习使用结构方程模型以及meta analysis文献综述"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: 机器学习项目
+        tagline: "参与机器学习培训，掌握经典算法（logistic classification；svm；id3/c4.5/cart）和工业算法（adaboost/xgboost/gbdt）"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: 低功耗嵌入式
+        tagline: "完成msp430f5529为核心的低功耗温控系统构建，熟悉单片机的基本控制，eagle根据元器件的指标设计简单电路板的和利用IAR system对元器件的的简单性能调试"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+ 
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      以下是一些代表性的论文和报告
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: 数据主义者宣言
+        authors: Yongqi li
+#        conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Based on the governmental information disclosure to analyze the relationship between Pollution Information Transparency Index and green bond market
+        authors: Rui yang,Yongqi li
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Will Digital Currency Reshape Our Finical System?
+        authors: Yongqi li,Bo lin,Yinhang wang
+#        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python & R
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: tableau & SPSS & Eviews
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: SQL & Data Visualization
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: HTML5 & CSS & Ruby on Rails
         level: 60%
 
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    More info please contact  <i class="fas fa-heart"></i> at <a href="http://blankseraph.top" target="_blank" rel="nofollow">Blankseraph</a>
