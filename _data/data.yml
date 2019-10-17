@@ -156,7 +156,10 @@ skills:
       - name: SQL & Data visualization
         level: 85%
 
-      - name: HTML5 & CSS & Ruby on Rails
+      - name: Git & Docker
+        level: 80%
+        
+      - name: HTML5 & CSS & Ruby 
         level: 70%
 
       - name: Matlab & Lingo
