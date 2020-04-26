@@ -55,15 +55,15 @@ career-profile:
         The process of our development is so unbalanced, then, who will be the guide?
 
 education:
-    - degree: Undergraduate stu
-      university: Harbin institue of technology
+    - degree: Harbin institue of technology
+      university: 
       time: 2018 - 2020
-      details: Information Management and System
+      details: Information Management and Big Data
 
-    - degree: Undergraduate stu
-      university: Harbin institue of technology
+    - degree: Harbin institue of technology
+      university: Engineering Experimental Class
       time: 2016 - 2018
-      details: Engineering Experimental Class
+      details: 
 
 
 experiences:
