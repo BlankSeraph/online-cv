@@ -36,7 +36,7 @@ sidebar:
       - item: Climbing
         link:
 
-      - item: Snowboarding
+      - item: Swimming
         link:
 
       - item: Cooking
@@ -103,7 +103,7 @@ projects:
       The following are academic project experiences, mainly related to the Internet of Things, data science and public management.
 
     assignments:
-      - title: Python webcrawler 
+      - title: Medical data analysis 
         tagline: "Grab the hospital information, put in the mysql database, use navicat as a database management tool, analyze and visualize the data, and go to the school hospital for field medical record collection and research."
 
       - title: Reasearch in public management
@@ -124,7 +124,7 @@ publications:
         The followings are some representative papers and researches
 
     papers:
-      - title: Data-ist Manifesto
+      - title: Philosophy of dataism 
         authors: Yongqi li
 #        conference: Addison-Wesley, 1968
 
