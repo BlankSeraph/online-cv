@@ -35,15 +35,16 @@
         <div class="upper-row">
           <h3 class="degree">{{ graduation.degree }}</h3>
           <div class="time">{{ graduation.time }}</div>
+          <div class="details">
+            {{ graduation.details | markdownify }}
+          </div><!--//details-->
         </div><!--//upper-row-->
 
         <div class="university">{{ graduation.university }}</div>
       </div><!--//meta-->
 
       <!-- {% if graduation.details %} -->
-      <div class="details">
-        {{ graduation.details | markdownify }}
-      </div><!--//details-->
+
       <!-- {% endif %} -->
 
     </div><!--//item-->
