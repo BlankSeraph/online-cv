@@ -69,12 +69,20 @@ education:
 
 
 experiences:
+    - role: Volunteer of "wuhan 2020" community
+      time: 2020.1 - present
+      company: Wuhan
+      details: |
+        Use the Django framework and participated in back-end module writing and maintenance  
+        Participate in the reporting of local epidemic data
+    
+
     - role: Vice President OF AIESEC IN HIT
       time: 2017.1 - 2018.9
       company: Beijing，AIESEC.org
       details: |
         Vice President of the AIESEC IN HIT Association, Head of the Overseas Volunteer Program (OGV).Responsible for OGV department training, management and coordination of volunteers in Harbin.Led the team to participate in Beijing RIC Youth Leadership Branch, Hangzhou NTPC Management Summit.
-          - OGV training
+          - OGV trainings
           - Undertake the task assigned by MOC
           - Teamablition, gmail, etc. All-England Environmental Office Collaboration
 
@@ -87,17 +95,6 @@ experiences:
           - Open cv programming
           - Annual project completion
 
-    - role: Member in Student union of Aerospace Institute
-      time: 2017 - 2018
-      company: HIT,Harbin
-      details: |
-        Complete the matters assigned by the student council,        
-        Communist Party building,
-        In charge of the management and operation of the college notes public number,
-        Aerospace knowledge contest and other activities.
-
-          - party building
-          - Affairs assigned by student union
 
 projects:
     title: Projects&Researches
