@@ -45,10 +45,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        I believe that the essence of the undergraduate study is a kind of comprehensive development and exploration.
-        After two years of an engineering career and various attempts during college life, my life ambition is no longer a technical realization, 
-        but a study of the data policy, the overall social policy and institutional innovation, there are numerous technologies based on scientific knowledge.
-        How to integrate these technologies according to actual situations, and make it better and better for everyone, is the overall trend, which is more needed now and in the future. 
+      
 
 education:
     - degree: Harbin institue of technology
@@ -119,30 +116,24 @@ publications:
     papers:
       - title: Philosophy of data 
         authors: Yongqi li
-#        conference: Addison-Wesley, 1968
 
       - title: Based on the governmental information disclosure to analyze the relationship between Pollution Information Transparency Index and green bond market
         authors: Rui yang,Yongqi li
-#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
       - title: Will Digital Currency Reshape Our Finical System?
         authors: Yongqi li,Bo lin,Yinhang wang
-#        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills & Proficiency
 
     toolset:
       - name: Python & R
-        level: 98%
-
-      - name: tableau & SPSS & Eviews
         level: 90%
 
-      - name: SQL & Data visualization
-        level: 85%
+      - name: git & docker
+        level: 90%
 
-      - name: Git & Docker
+      - name: nas & data analysis
         level: 80%
         
       - name: HTML5 & CSS & Ruby 
