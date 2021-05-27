@@ -13,11 +13,11 @@ sidebar:
 
     # Sidebar links
     email: seraphblank@gmail.com
-    phone: 18846439213
+    phone: 17647677185
     website: blankseraph.top #do not add http://
     linkedin: blankseraph
     github: blankseraph
-    gitlab:
+    gitlab: 
     bitbucket:
     twitter: '@blank_seraph'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -45,7 +45,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      
+      Data scientist Focusing on healthcare problems.
 
 education:
     - degree: Harbin institue of technology
